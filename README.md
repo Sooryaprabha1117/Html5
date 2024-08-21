@@ -21,4 +21,6 @@ This project is a drawing application built with HTML5, CSS, and JavaScript. It 
 - **Mouse Events**: Handles drawing and interaction with mouse inputs.
 - **Touch Events**: Supports drawing and interaction with touch inputs.
 
+## Clone this Repository
 
+git clone https://github.com/Sooryaprabha1117/Html5.git
